@@ -1,5 +1,5 @@
 export enum Route {
   Goals = 'Goals',
-  Schedule = 'Schedule',
+  Todos = 'Todos',
   Root = 'Root',
 }

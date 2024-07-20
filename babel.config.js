@@ -14,6 +14,7 @@ module.exports = {
           '@hooks': './src/hooks',
           '@utils': './src/utils',
           '@locale': './src/locale',
+          '@assets': './src/assets',
         },
       },
     ],

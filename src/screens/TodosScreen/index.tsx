@@ -2,10 +2,10 @@ import {ScreenContainer} from '@components/ScreenContainer';
 import React, {memo} from 'react';
 import styled from 'styled-components/native';
 
-export const ScheduleScreen = memo(() => {
+export const TodosScreen = memo(() => {
   return (
     <ScreenContainer>
-      <Text>ScheduleScreen</Text>
+      <Text>TodosScreen</Text>
     </ScreenContainer>
   );
 });
