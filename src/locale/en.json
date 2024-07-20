@@ -1,0 +1,16 @@
+{
+    "translation": {
+        "test": "Test",
+        "goals": {
+            "form": {
+                "abstract": {
+                    "question": "Your main goals in life",
+                    "defaultOptions": [
+                        "Personal",
+                        "Work"
+                    ]
+                }
+            }
+        }
+    }
+}

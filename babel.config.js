@@ -13,6 +13,7 @@ module.exports = {
           '@state': './src/state',
           '@hooks': './src/hooks',
           '@utils': './src/utils',
+          '@locale': './src/locale',
         },
       },
     ],

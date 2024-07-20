@@ -1,0 +1,16 @@
+{
+    "translation": {
+        "test": "Testas",
+        "goals": {
+            "form": {
+                "abstract": {
+                    "question": "Pagrindiniai tikslai gyvenime",
+                    "defaultOptions": [
+                        "Asmeniniai",
+                        "Darbo"
+                    ]
+                }
+            }
+        }
+    }
+}
